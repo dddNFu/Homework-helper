@@ -4,4 +4,4 @@
 
 ---
 
-推广一下自己的哔哩哔哩空间：https://space.bilibili.com/1630976928?spm_id_from=333.1007.0.0
+推广一下自己的哔哩哔哩空间：https://space.bilibili.com/1630976928
