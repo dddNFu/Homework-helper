@@ -1,2 +1,3 @@
-# Homework-helper
-To help you with your homework.
+# 作业助手
+
+都是些比较鸡肋的 C++ 小程序，会不定期更新。
