@@ -9,7 +9,7 @@ double weight[N]={1,4,7,9,11,12,14,16,19,20,23,24,27,28,31,32,35.5,40,39,40,
 char s[100];
 double ans;
 int num,i;
-int find(int l,int len)
+int find(int l,int len)//找到元素符号所对应的序号（非原子序数）
 {
 	char s1[100];
 	strcpy(s1,s+l);
@@ -18,7 +18,7 @@ int find(int l,int len)
 		if(!strcmp(s1,name[i]))return i;
 	return ERR;
 }
-double func(int l,int r)
+double func(int l,int r)//求左闭右开区间[l,r)的式量
 {
 	double ans=0;
 	int x,num,w,t;
