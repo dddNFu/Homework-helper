@@ -20,8 +20,8 @@ int find(int l,int len)//找到元素符号所对应的序号（非原子序数�
 }
 double func(int l,int r)//求左闭右开区间[l,r)的式量
 {
-	double ans=0;
-	int x,num,w,t;
+	double ans=0,w;
+	int x,num,t;
 	while(l<r)
 	{
 		if(s[l]>='A'&&s[l]<='Z')
